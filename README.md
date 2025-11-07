@@ -1,2 +1,2 @@
 # Zomato
-Onile food delivery application
+Online food delivery application
